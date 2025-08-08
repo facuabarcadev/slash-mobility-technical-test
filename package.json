@@ -1,0 +1,26 @@
+{
+  "name": "slash-mobility-technical-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest",
+  "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facuabarcadev/slash-mobility-technical-test.git"
+  },
+  "author": "facuabarcadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facuabarcadev/slash-mobility-technical-test/issues"
+  },
+  "homepage": "https://github.com/facuabarcadev/slash-mobility-technical-test#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
